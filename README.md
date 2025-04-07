@@ -39,7 +39,7 @@ Improving image resolution using SRGAN:
 
 ---
 
-### 🐶 [Dog Breed Recognition](https://github.com/pmajews/dog_breed_recognition)
+### 🐶 [Dog Breed Recognition](https://github.com/pmvjews/dog_breed_recognition)
 Dog breed classification using deep learning:
 - Utilized a fine-tuned **EfficientNetB6** model with **92% accuracy**
 - Recognizes **114 dog breeds**
@@ -47,7 +47,7 @@ Dog breed classification using deep learning:
 
 ---
 
-### 🏋️ [Athlete Events – EDA & ML Model](https://github.com/pmajews/Athlete_events_EDA_and_ML_Model)
+### 🏋️ [Athlete Events – EDA & ML Model](https://github.com/pmvjews/Athlete_events_EDA_and_ML_Model)
 Exploratory data analysis and classification of athletes:
 - Analyzed 120 years of Olympic Games history dataset
 - Built a **Random Forest classifier**, optimized with **GridSearchCV**
